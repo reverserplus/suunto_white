@@ -110,57 +110,57 @@
 	   {
 	    "type":"png",
 	    "defName":"IMAGE_SMALL_0",
-	    "file":"images/font/small/0.png"
+	    "file":"images/font/small/s0.png"
 	   },
 	   {
 	    "type":"png",
 	    "defName":"IMAGE_SMALL_1",
-	    "file":"images/font/small/1.png"
+	    "file":"images/font/small/s1.png"
 	   },
 	   {
 	    "type":"png",
 	    "defName":"IMAGE_SMALL_2",
-	    "file":"images/font/small/2.png"
+	    "file":"images/font/small/s2.png"
 	   },
 	   {
 	    "type":"png",
 	    "defName":"IMAGE_SMALL_3",
-	    "file":"images/font/small/3.png"
+	    "file":"images/font/small/s3.png"
 	   },
 	   {
 	    "type":"png",
 	    "defName":"IMAGE_SMALL_4",
-	    "file":"images/font/small/4.png"
+	    "file":"images/font/small/s4.png"
 	   },
 	   {
 	    "type":"png",
 	    "defName":"IMAGE_SMALL_5",
-	    "file":"images/font/small/5.png"
+	    "file":"images/font/small/s5.png"
 	   },
 	   {
 	    "type":"png",
 	    "defName":"IMAGE_SMALL_6",
-	    "file":"images/font/small/6.png"
+	    "file":"images/font/small/s6.png"
 	   },
 	   {
 	    "type":"png",
 	    "defName":"IMAGE_SMALL_7",
-	    "file":"images/font/small/7.png"
+	    "file":"images/font/small/s7.png"
 	   },
 	   {
 	    "type":"png",
 	    "defName":"IMAGE_SMALL_8",
-	    "file":"images/font/small/8.png"
+	    "file":"images/font/small/s8.png"
 	   },
 	   {
 	    "type":"png",
 	    "defName":"IMAGE_SMALL_9",
-	    "file":"images/font/small/9.png"
+	    "file":"images/font/small/s9.png"
 	   },
 	   {
 	    "type":"png",
 	    "defName":"IMAGE_SMALL_PERIOD",
-	    "file":"images/font/small/period.png"
+	    "file":"images/font/small/speriod.png"
 	   }
 	  ]
 }
