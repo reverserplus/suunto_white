@@ -1,166 +1,166 @@
-
-{"friendlyVersion": "dev_0.0",
- "versionDefName": "APP_RESOURCES",
- "media": [
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_MENU_ICON",
-	    "file":"images/icon.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_0",
-	    "file":"images/font/large/0.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_1",
-	    "file":"images/font/large/1.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_2",
-	    "file":"images/font/large/2.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_3",
-	    "file":"images/font/large/3.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_4",
-	    "file":"images/font/large/4.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_5",
-	    "file":"images/font/large/5.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_6",
-	    "file":"images/font/large/6.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_7",
-	    "file":"images/font/large/7.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_8",
-	    "file":"images/font/large/8.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_9",
-	    "file":"images/font/large/9.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_COLON",
-	    "file":"images/font/large/colon.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_AM",
-	    "file":"images/font/large/am.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_LARGE_PM",
-	    "file":"images/font/large/pm.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_DAY_SUN",
-	    "file":"images/font/days/sun.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_DAY_MON",
-	    "file":"images/font/days/mon.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_DAY_TUE",
-	    "file":"images/font/days/tue.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_DAY_WED",
-	    "file":"images/font/days/wed.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_DAY_THU",
-	    "file":"images/font/days/thu.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_DAY_FRI",
-	    "file":"images/font/days/fri.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_DAY_SAT",
-	    "file":"images/font/days/sat.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_SMALL_0",
-	    "file":"images/font/small/s0.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_SMALL_1",
-	    "file":"images/font/small/s1.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_SMALL_2",
-	    "file":"images/font/small/s2.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_SMALL_3",
-	    "file":"images/font/small/s3.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_SMALL_4",
-	    "file":"images/font/small/s4.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_SMALL_5",
-	    "file":"images/font/small/s5.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_SMALL_6",
-	    "file":"images/font/small/s6.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_SMALL_7",
-	    "file":"images/font/small/s7.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_SMALL_8",
-	    "file":"images/font/small/s8.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_SMALL_9",
-	    "file":"images/font/small/s9.png"
-	   },
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_SMALL_PERIOD",
-	    "file":"images/font/small/speriod.png"
-	   }
-	  ]
+{
+    "media": [
+        {
+            "defName": "IMAGE_SMALL_PERIOD",
+            "type": "png",
+            "file": "images/speriod.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_9",
+            "type": "png",
+            "file": "images/s9.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_8",
+            "type": "png",
+            "file": "images/s8.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_7",
+            "type": "png",
+            "file": "images/s7.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_6",
+            "type": "png",
+            "file": "images/s6.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_5",
+            "type": "png",
+            "file": "images/s5.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_4",
+            "type": "png",
+            "file": "images/s4.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_3",
+            "type": "png",
+            "file": "images/s3.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_2",
+            "type": "png",
+            "file": "images/s2.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_1",
+            "type": "png",
+            "file": "images/s1.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_0",
+            "type": "png",
+            "file": "images/s0.png"
+        },
+        {
+            "defName": "IMAGE_DAY_SAT",
+            "type": "png",
+            "file": "images/sat.png"
+        },
+        {
+            "defName": "IMAGE_DAY_FRI",
+            "type": "png",
+            "file": "images/fri.png"
+        },
+        {
+            "defName": "IMAGE_DAY_THU",
+            "type": "png",
+            "file": "images/thu.png"
+        },
+        {
+            "defName": "IMAGE_DAY_WED",
+            "type": "png",
+            "file": "images/wed.png"
+        },
+        {
+            "defName": "IMAGE_DAY_TUE",
+            "type": "png",
+            "file": "images/tue.png"
+        },
+        {
+            "defName": "IMAGE_DAY_MON",
+            "type": "png",
+            "file": "images/mon.png"
+        },
+        {
+            "defName": "IMAGE_DAY_SUN",
+            "type": "png",
+            "file": "images/sun.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_PM",
+            "type": "png",
+            "file": "images/pm.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_AM",
+            "type": "png",
+            "file": "images/am.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_COLON",
+            "type": "png",
+            "file": "images/colon.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_9",
+            "type": "png",
+            "file": "images/9.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_8",
+            "type": "png",
+            "file": "images/8.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_7",
+            "type": "png",
+            "file": "images/7.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_6",
+            "type": "png",
+            "file": "images/6.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_5",
+            "type": "png",
+            "file": "images/5.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_4",
+            "type": "png",
+            "file": "images/4.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_3",
+            "type": "png",
+            "file": "images/3.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_2",
+            "type": "png",
+            "file": "images/2.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_1",
+            "type": "png",
+            "file": "images/1.png"
+        },
+        {
+            "defName": "IMAGE_LARGE_0",
+            "type": "png",
+            "file": "images/0.png"
+        },
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/icon.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
 }

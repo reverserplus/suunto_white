@@ -215,7 +215,7 @@ void handle_init(AppContextRef ctx) {
   window_init(&window, "Suunto Core");
   window_stack_push(&window, true /* Animated */);
   resource_init_current_app(&APP_RESOURCES);
-  window_set_background_color(&window, GColorBlack);
+  window_set_background_color(&window, GColorWhite);
   wFrame = layer_get_frame(&window.layer);
 
   PblTm t;
