@@ -9,11 +9,6 @@
 	   },
 	   {
 	    "type":"png",
-	    "defName":"IMAGE_SPLASH",
-	    "file":"images/splash.png"
-	   },
-	   {
-	    "type":"png",
 	    "defName":"IMAGE_LARGE_0",
 	    "file":"images/font/large/0.png"
 	   },
